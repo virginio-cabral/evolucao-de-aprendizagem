@@ -4,13 +4,14 @@
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
-- LinkedIn
-- Ética em tecnologia
-- Gestão de tempo
-- Git básico
-- Introdução a TypeScript
-- Métodos de strings
+- Funções
+- Tipos de Dados
+- Gestão de Tempo
+- Tipos Utilitários
+- Método de Strings
+- Currículo e carta de apresentação
+- Métodos de Arrays
+- LinkedIn: Primeiros Passos
 - Métodos de arrays
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
