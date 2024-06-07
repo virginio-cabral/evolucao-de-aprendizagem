@@ -15,9 +15,9 @@
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
+- Funções são ferramentas essenciais para um código conciso e organizado, previnindo repetições e estimulando o reaproveitamento de código
+- Tipagem de dados no TypeScript é uma forma crucial de previnir erros.
+- Gestão de tempo é um conceito que faz parte das Soft Skills que envolve o uso otimizado do nosso tempo.
 - Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
 - Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
 - TypeScript é uma linguagem de programação relacionada ao JavaScript.
